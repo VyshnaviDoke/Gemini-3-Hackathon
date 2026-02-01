@@ -35,5 +35,5 @@ Gemini 3 processes text and images together, analyzing architectural elements, m
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/VyshnaviDoke/Gemini-3-Hackathon
 cd historic-places-explorer
