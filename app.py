@@ -7,7 +7,7 @@ import io
 # -------------------------------
 # 1. Configure Gemini client
 # -------------------------------
-client = genai.Client(api_key="AIzaSyAdzjck_VJai753PjxTZ_YBkzKl2ImHR7U")
+client = genai.Client(api_key="###########################")
 MODEL_NAME = "models/gemini-3-flash-preview"  # free-tier model
 
 # -------------------------------
